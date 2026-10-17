@@ -30,3 +30,5 @@ A responsive, multi-page academy website made with HTML, CSS, and vanilla JavaSc
 - Google Fonts are imported online; if offline, fallback fonts will be used.
 
 No build tools or package installation are required.
+testing gitHub connection 
+Hello
